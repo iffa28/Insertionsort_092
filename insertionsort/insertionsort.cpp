@@ -30,7 +30,7 @@ void input() {
 }
 
 void insertionsort() { 
-	int temp;
+	int temp; 
 	int j;
 
 	for (int i = 1; i < n; i++) {
