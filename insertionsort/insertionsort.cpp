@@ -66,7 +66,7 @@ void display() {
 	}
 }
 
-int main()
+int main() 
 {
 	input();
 	insertionsort();
