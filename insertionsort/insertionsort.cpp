@@ -56,7 +56,7 @@ void insertionsort() {
 	}
 }
 
-void display() {
+void display() { 
 	cout << "\n==============================" << endl;
 	cout << "Element Array yang telah Tersusun" << endl;
 	cout << "=================================" << endl;
