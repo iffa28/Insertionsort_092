@@ -9,7 +9,7 @@ void input() {
 		cout << "masukkan jumlah data pada array : "; 
 		cin >> n; 
 
-		if (n <= 20) {
+		if (n <= 20) { 
 			break;
 		}
 		else
